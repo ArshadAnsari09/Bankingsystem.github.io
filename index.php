@@ -1,10 +1,3 @@
-/* Arshad Ansari 
-B.TECH(ECE)
-College: Nsut East Campus Formerly AIACT&
-Web Development Task
-Task:Basic Banking System
-*/
-
 <!doctype html>
 <html lang="en">
   <head>
